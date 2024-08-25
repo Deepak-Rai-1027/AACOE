@@ -1,2 +1,2 @@
 # AACOE
-Course resources
+AACOE Course resources.
